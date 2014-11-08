@@ -47,7 +47,7 @@ public class frmTipoProducto extends JFrame {
 		textField.setColumns(10);
 		
 		JButton btnNewButton = new JButton("New button");
-		btnNewButton.setBounds(90, 73, 89, 23);
+		btnNewButton.setBounds(46, 71, 89, 23);
 		contentPane.add(btnNewButton);
 	}
 }
